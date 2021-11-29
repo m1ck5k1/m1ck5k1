@@ -1,13 +1,13 @@
 ## Hello! I'm m1ck5k1 (aka Michael) 👋<
 
-- 🔭  Currently working on a Digital Media Electron Project
-- 🌱  Currently learning CEF, Chromium & Electron, 
-- 👯  Looking to collaborate with anyone interested 
+- 🔭  Currently working on a Digital Media app in Electron
+- 🌱  Currently learning anything/everything relating to Build Systems, CEF, Chromium, CD/CI, CSS, Docker, Electron, ffmpeg, HTML5, JavaScript, Kubernetes, NodeJS, & VLC
+- 👯  Looking to find a project I can collaborate with others on 
 
 ## Github Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1ck5k1&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1ck5k1&custom_title=GitHub%3A+All+Project+Stats&layout=compact&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=m1ck5k1&layout=compact&theme=tokyonight&show_icons=true&custom_title=wakatime%3A+Weekly+Stats" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=m1ck5k1&custom_title=wakatime%3A+Weekly+Stats&layout=compact&theme=tokyonight&show_icons=true" />
 
 ## Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
