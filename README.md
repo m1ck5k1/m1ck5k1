@@ -1,7 +1,7 @@
 ## Hello! I'm m1ck5k1 (aka Michael) 👋<
 
 - 🔭  Currently working on a Digital Media app in Electron
-- 🌱  Currently learning anything/everything relating to Build Systems, CEF, Chromium, CD/CI, CSS, Docker, Electron, ffmpeg, HTML5, JavaScript, Kubernetes, NodeJS, & VLC
+- 🌱  Currently expanding my knowledge on Build Systems, CEF, Chromium, CD/CI, CSS3, Deno, Electron, ffmpeg, HTML5, JavaScript, NodeJS, & VLC
 - 👯  Looking to find a project I can collaborate with others on 
 
 ## Github Stats:
