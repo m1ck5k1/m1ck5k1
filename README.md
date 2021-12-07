@@ -1,8 +1,7 @@
 ## Hello! I'm m1ck5k1 (aka Michael) 👋<
 
-- 🔭  Currently working on a Digital Media app in Electron
-- 🌱  Currently expanding my knowledge on Build Systems, CEF, Chromium, CD/CI, CSS3, Deno, Electron, ffmpeg, HTML5, JavaScript, NodeJS, & VLC
-- 👯  Looking to find a project I can collaborate with others on 
+- 🔭 &nbsp;Currently working on a Digital Media app in Electron
+- 🌱 &nbsp;Currently expanding my knowledge on Build Systems, CEF, Chromium, CD/CI, CSS3, Deno, Electron, ffmpeg, HTML5, JavaScript, NodeJS, & VLC
 
 ## Github Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1ck5k1&custom_title=GitHub%3A+All+Project+Stats&layout=compact&theme=tokyonight" />
