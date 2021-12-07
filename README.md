@@ -1,4 +1,4 @@
-## Hello! I'm m1ck5k1 (aka Michael) 👋<
+## Hello! I'm m1ck5k1 (aka Michael)&nbsp;👋
 
 - 🔭 &nbsp;Currently working on a Digital Media app in Electron
 - 🌱 &nbsp;Currently expanding my knowledge on Build Systems, CEF, Chromium, CD/CI, CSS3, Deno, Electron, ffmpeg, HTML5, JavaScript, NodeJS, & VLC
