@@ -1,7 +1,6 @@
-## Hello! I'm m1ck5k1&nbsp;👋
+## Hello! m1ck5k1 here&nbsp;👋
 
-- 🔭 &nbsp;Currently working on a number of Projects
-- 🌱 &nbsp;Working on Build Systems, CEF, Chromium, CD/CI, Clustering, CSS3, Docker, Electron, ffmpeg, HTML5, JavaScript, Kubernetes, Linux, NodeJS, Python, RaspberyPi, Testing & VLC
+- 🌱 &nbsp;Current Interests: Build Systems, CEF, Chromium, CD/CI, Clustering, CSS3, Docker, Electron, ffmpeg, HTML5, JavaScript, Kubernetes, Linux, NodeJS, Python, RaspberyPi, Testing & VLC
 
 ## Github Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1ck5k1&custom_title=GitHub%3A+All+Project+Stats&layout=compact&theme=tokyonight" />
