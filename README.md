@@ -1,6 +1,6 @@
 ## Hello! m1ck5k1 here&nbsp;👋
 
-- 🌱 &nbsp;Current Interests: 3D Design/Printing, ffmpeg, HTML5, JavaScript, Linux, Python, RaspberyPi, & VLC
+- 🌱 &nbsp;Current Interests: 3D Design/Printing, ffmpeg, HTML5, JavaScript, Linux, nmap, Python, RaspberyPi, & VLC
 
 ## Github Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1ck5k1&custom_title=GitHub%3A+All+Project+Stats&layout=compact&theme=tokyonight" />
