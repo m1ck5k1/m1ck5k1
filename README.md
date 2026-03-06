@@ -3,7 +3,6 @@
  - 🔭 &nbsp;**Building:** Distributed Systems in **Rust**, **Web3** Smart Contracts, and IoT Fleet Management tools.
  - 🌱 &nbsp;**Current Interests:** Systems Engineering, OSINT (Open Source Intelligence), Software Defined Radio
       (SDR), 3D Design/Printing, & Fiscal Forensics.
- - ⚡ &nbsp;**Fun Fact:** I try to automate the physical world with Python and the digital world with Smart Contracts.
  
 ## Languages & Tools
 <img align="left" alt="Blockchain" width="26px" src="https://img.icons8.com/color/48/blockchain.png" />
