@@ -5,10 +5,6 @@
       (SDR), 3D Design/Printing, & Fiscal Forensics.
  - ⚡ &nbsp;**Fun Fact:** I automate the physical world with Python and the digital world with Smart Contracts.
  
-## Github Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1ck5k1&custom_title=GitHub%3A+All+Project+Stats&layout=compact&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=m1ck5k1&custom_title=wakatime%3A+Weekly+Stats&layout=compact&theme=tokyonight&show_icons=true" />
-
 ## Languages & Tools
 
 <!-- Languages -->
