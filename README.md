@@ -17,5 +17,6 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Rust" width="26px" src="https://cdn.simpleicons.org/rust/white" />
 <img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Web3" width="26px" src="https://cdn.simpleicons.org/web3dotjs/white" />
 
 <br clear="all" />
