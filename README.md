@@ -8,6 +8,7 @@
 ## Languages & Tools
 <img align="left" alt="Blockchain" width="26px" src="https://img.icons8.com/color/48/blockchain.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="FFmpeg" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ffmpeg/ffmpeg-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github/white" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -18,6 +19,7 @@
 <img align="left" alt="Raspberry Pi" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Rust" width="26px" src="https://cdn.simpleicons.org/rust/DEA584" />
+<img align="left" alt="VLC" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg" />
 <img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br clear="all" />
