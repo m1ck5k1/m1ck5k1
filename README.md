@@ -2,7 +2,7 @@
 
 I run **Incidium Ltd** — enterprise digital signage & AV production for live events (The Venetian, Mandalay Bay). Most of what's here exists because something broke or annoyed me on an event floor and I decided to build the fix instead of buying it.
 
-- 🔭 **Building:** `logios` — the orchestration layer tying my tools together · `free-model-observatory` — so I'm not quietly dependent on a free-tier LLM provider pulling the rug · `choragos` — device governance for the event floor, tamper detection & audit trail · `osProxenos` — who eats the cost when something fails, and proving it · `osAgora` — the odd one out, less Incidium, more the bigger stuff I care about
+- 🔭 **Building:** `logios` — the orchestration layer tying my tools together · `free-model-observatory` — so I'm not quietly dependent on a free-tier LLM provider pulling the rug · `choragos` — device governance for the event floor, tamper detection & audit trail · `osProxenos` — who eats the cost when something fails, and proving it · `argus` — fleet telemetry & remote command for hybrid Linux/Windows nodes · `ffZenPeg` — desktop app for local FFmpeg encoding + cloud encoding via Zencoder · `osAgora` — the odd one out, less Incidium, more the bigger stuff I care about
 - 🌱 **Also poking at:** MQL5/MetaTrader algo trading, IoT fleet monitoring, home hydroponics automation, workshop fabrication (3D printing, CNC, laser cutting)
 - 🧭 **Naming pattern:** most projects borrow from Greek mythology (logios, choragos, Daedalus, Iris, Argus) — infrastructure layers get Latinate *-ium* suffixes
 - ⚖️ **Ethos:** humanity and the majority over narrow commercial interest — that's the filter everything here gets run through
@@ -21,6 +21,9 @@ I run **Incidium Ltd** — enterprise digital signage & AV production for live e
 <img align="left" alt="n8n" width="26px" src="https://cdn.simpleicons.org/n8n/EA4B71" />
 <img align="left" alt="GitHub Actions" width="26px" src="https://cdn.simpleicons.org/githubactions/2088FF" />
 <img align="left" alt="Cloudflare" width="26px" src="https://cdn.simpleicons.org/cloudflare/F38020" />
+<img align="left" alt="Next.js" width="26px" src="https://cdn.simpleicons.org/nextdotjs/white" />
+<img align="left" alt="Tailwind CSS" width="26px" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" />
+<img align="left" alt="InfluxDB" width="26px" src="https://cdn.simpleicons.org/influxdb/22ADF6" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />
 <img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" />
@@ -40,6 +43,8 @@ I run **Incidium Ltd** — enterprise digital signage & AV production for live e
 | **free-model-observatory** | Routing & monitoring for free-tier LLM dependencies |
 | **choragos** | Device governance & tamper-evident audit for live event floors |
 | **osProxenos** | Guarantor/liability infrastructure — who pays when it fails |
+| **argus** | Fleet telemetry & secure remote command for hybrid Linux/Windows nodes |
+| **ffZenPeg** | Cross-platform desktop app for local FFmpeg encoding + cloud encoding via Zencoder |
 | **osAgora** | Open-source civic participation platform |
 | **Daedalus** | Drone system architecture — companion computer + flight controller |
 
