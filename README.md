@@ -39,14 +39,14 @@ I run **Incidium Ltd** — enterprise digital signage & AV production for live e
 
 | Project | What it is |
 |---|---|
-| **logios** | Agentic orchestration for event operations (formerly hermes-agent) |
-| **free-model-observatory** | Routing & monitoring for free-tier LLM dependencies |
-| **choragos** | Device governance & tamper-evident audit for live event floors |
-| **osProxenos** | Guarantor/liability infrastructure — who pays when it fails |
 | **argus** | Fleet telemetry & secure remote command for hybrid Linux/Windows nodes |
-| **ffZenPeg** | Cross-platform desktop app for local FFmpeg encoding + cloud encoding via Zencoder |
-| **osAgora** | Open-source civic participation platform |
+| **choragos** | Device governance & tamper-evident audit for live event floors |
 | **Daedalus** | Drone system architecture — companion computer + flight controller |
+| **ffZenPeg** | Cross-platform desktop app for local FFmpeg encoding + cloud encoding via Zencoder |
+| **free-model-observatory** | Routing & monitoring for free-tier LLM dependencies |
+| **logios** | Agentic orchestration for event operations (formerly hermes-agent) |
+| **osAgora** | Open-source civic participation platform |
+| **osProxenos** | Guarantor/liability infrastructure — who pays when it fails |
 
 ---
 Running enterprise event deployments across the UK & US · [Incidium Ltd](https://incidium.net)
